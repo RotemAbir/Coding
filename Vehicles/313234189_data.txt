@@ -1,0 +1,979 @@
+             -1|    COOKING_GAZ|      Fowberry8|             16|
+        2184322|    COOKING_GAZ|
+        1361640|    COOKING_GAZ|
+        2781644|          SOLER|        DarkRed|
+        1779285|          SOLER|          Black|
+             -1|    COOKING_GAZ|   Liberty Glo2|             24|
+        1469797|         BENZIN|        DarkRed|
+             -1|         BENZIN|   Liberty Glo3|             21|
+             -1|    COOKING_GAZ|       Hercule6|             26|
+             -1|          SOLER|     Boucharin5|             16|
+        1239314|    COOKING_GAZ|        Magenta|
+        2958743|         BENZIN|          White|
+        2057723|         BENZIN|          Green|
+        2732161|         BENZIN|
+        1737457|         BENZIN|        DarkRed|
+        2530428|          SOLER|
+        1662749|          SOLER|       DarkCyan|
+             -1|         BENZIN|      Fowberry5|             11|
+        2545547|         BENZIN|       DarkBlue|
+             -1|          SOLER|      Sabratha6|             24|
+        1973533|          SOLER|           Cyan|
+        1616500|         BENZIN|       DarkBlue|
+             -1|          SOLER|      Fowberry7|              6|
+        2714855|          SOLER|
+             -1|    COOKING_GAZ| Wireless D.F.5|             29|
+        1248174|         BENZIN|
+        1227995|         BENZIN|
+             -1|          SOLER|   Liberty Glo4|             12|
+        2076541|         BENZIN|         Yellow|
+        1793708|    COOKING_GAZ|        DarkRed|
+        2198579|    COOKING_GAZ|       DarkGray|
+        2288010|          SOLER|          White|
+        2974975|    COOKING_GAZ|
+        2285355|          SOLER|
+        2993470|    COOKING_GAZ|        Magenta|
+        2340642|         BENZIN|          Green|
+        1969676|         BENZIN|
+        1935421|          SOLER|
+             -1|          SOLER|         ROSIE8|             25|
+             -1|    COOKING_GAZ|   Liberty Glo5|             38|
+             -1|    COOKING_GAZ|   Liberty Glo5|             24|
+        1025120|         BENZIN|      DarkGreen|
+        2995160|         BENZIN|            Red|
+             -1|          SOLER|          JUDY7|             33|
+        2920109|         BENZIN|
+             -1|    COOKING_GAZ|          JUDY4|             17|
+             -1|         BENZIN|     Boucharin8|             25|
+        1533094|    COOKING_GAZ|           Cyan|
+        2564253|    COOKING_GAZ|        Magenta|
+        1761391|         BENZIN|
+             -1|         BENZIN|      Sabratha2|             21|
+             -1|          SOLER|      Fowberry7|             35|
+             -1|    COOKING_GAZ|      Sabratha6|              9|
+             -1|          SOLER|      Sabratha8|             35|
+             -1|          SOLER|      Foremost7|              6|
+             -1|          SOLER|   Liberty Glo2|              8|
+        1093527|          SOLER|       DarkBlue|
+        2733385|          SOLER|
+             -1|          SOLER|      Fowberry8|             25|
+        2806048|    COOKING_GAZ|
+        1987929|         BENZIN|       DarkGray|
+        1407627|    COOKING_GAZ|       DarkCyan|
+        1046112|         BENZIN|        Magenta|
+             -1|          SOLER|     Monchique7|             31|
+        1606400|    COOKING_GAZ|
+             -1|          SOLER|       TITANIK3|             18|
+        2529180|    COOKING_GAZ|      DarkGreen|
+        1054788|    COOKING_GAZ|
+        1816425|          SOLER|          White|
+             -1|          SOLER|         ROSIE1|             32|
+        2465462|         BENZIN|
+             -1|         BENZIN|   Liberty Glo6|             27|
+             -1|          SOLER|     Monchique1|             23|
+             -1|    COOKING_GAZ|      Fowberry9|             26|
+        2087294|         BENZIN|
+             -1|          SOLER|       Hercule1|              9|
+             -1|    COOKING_GAZ|   Liberty Glo2|             26|
+        2195945|         BENZIN|          Green|
+        2428858|          SOLER|
+        2399490|          SOLER|            Red|
+        2595899|         BENZIN|
+        1381577|    COOKING_GAZ|       DarkBlue|
+        2166785|         BENZIN|        Magenta|
+        1115908|    COOKING_GAZ|           Blue|
+             -1|          SOLER|     Boucharin9|             28|
+             -1|    COOKING_GAZ|      Sabratha7|             26|
+        2882522|         BENZIN|
+        2646287|          SOLER|    DarkMagenta|
+             -1|         BENZIN|         ROSIE4|              5|
+        1575670|    COOKING_GAZ|
+        2981518|          SOLER|
+        1757556|    COOKING_GAZ|       DarkCyan|
+        2760449|    COOKING_GAZ|
+             -1|         BENZIN|     Monchique1|             31|
+        2399313|    COOKING_GAZ|
+             -1|         BENZIN|   Liberty Glo6|             30|
+        2533691|          SOLER|
+        2345866|         BENZIN|          White|
+             -1|          SOLER|      WallaShip|             17|             32|
+        1441731|         BENZIN|
+        2830487|          SOLER|          White|
+        1553579|          SOLER|
+        2795994|          SOLER|
+        2545547|         BENZIN|       DarkBlue|
+             -1|    COOKING_GAZ|       TITANIK8|             10|
+        1806867|    COOKING_GAZ|
+        2039087|         BENZIN|
+        2797036|    COOKING_GAZ|           Gray|
+        1757433|    COOKING_GAZ|
+        2759324|    COOKING_GAZ|       DarkBlue|
+        1257499|    COOKING_GAZ|          Black|
+        1834995|         BENZIN|
+        2400444|          SOLER|          White|
+        2132535|    COOKING_GAZ|        DarkRed|
+        1876606|         BENZIN|
+        2199515|    COOKING_GAZ|            Red|
+        1211096|    COOKING_GAZ|          Green|
+             -1|         BENZIN|         ROSIE7|             20|
+        1387376|         BENZIN|
+        2890190|          SOLER|        Magenta|
+             -1|         BENZIN|          JUDY1|             20|
+        2826341|          SOLER|           Gray|
+        2105082|    COOKING_GAZ|
+             -1|          SOLER|      WallaShip|             17|             32|
+        1787907|         BENZIN|           Cyan|
+        2531397|    COOKING_GAZ|       DarkGray|
+             -1|         BENZIN|     Boucharin2|             23|
+        1021282|          SOLER|           Gray|
+        1937781|         BENZIN|       DarkCyan|
+        2630069|          SOLER|
+        2365150|          SOLER|
+             -1|    COOKING_GAZ|   Liberty Glo3|             26|
+        1240937|          SOLER|
+        1295467|         BENZIN|       DarkGray|
+        2592403|    COOKING_GAZ|
+        1248105|         BENZIN|
+        1925352|         BENZIN|       DarkCyan|
+             -1|          SOLER|     NiceShip12|        25 feet|
+        2138591|          SOLER|       DarkCyan|
+             -1|         BENZIN|      Sabratha2|             31|
+        2545547|         BENZIN|       DarkBlue|
+        2126018|         BENZIN|      DarkGreen|
+             -1|          SOLER|     Monchique2|             35|
+             -1|    COOKING_GAZ|      Foremost3|             19|
+        1785050|          SOLER|    DarkMagenta|
+             -1|          SOLER|     Monchique1|             32|
+        2174335|    COOKING_GAZ|
+             -1|          SOLER|         Birka4|             35|
+        2549120|         BENZIN|
+        1631099|    COOKING_GAZ|      DarkGreen|
+          12109|
+        2007541|         BENZIN|       DarkGray|
+        2495061|         BENZIN|          Green|
+        2057485|          SOLER|
+        2658639|          SOLER|
+        2923788|         BENZIN|
+        2345866|         BENZIN|          White|
+        1982309|         BENZIN|
+        2517123|          SOLER|           Blue|
+        1492742|         BENZIN|
+        1408009|         BENZIN|          Black|
+        1029339|    COOKING_GAZ|
+        1559702|          SOLER|           Gray|
+        2689169|    COOKING_GAZ|
+        2951475|         BENZIN|
+        2265746|    COOKING_GAZ|          Green|
+        1941647|    COOKING_GAZ|
+             -1|         BENZIN|      Foremost7|             11|
+        1583019|    COOKING_GAZ|      DarkGreen|
+             -1|          SOLER| Wireless D.F.9|             27|
+             -1|          SOLER|     Monchique8|             19|
+        1380277|         BENZIN|       DarkGray|
+             -1|         BENZIN|     Boucharin3|             28|
+             -1|          SOLER| Wireless D.F.7|             20|
+        2482526|    COOKING_GAZ|
+        2166785|         BENZIN|        Magenta|
+             -1|         BENZIN| Wireless D.F.8|              6|
+             -1|    COOKING_GAZ|      Sabratha1|             20|
+        1631099|    COOKING_GAZ|      DarkGreen|
+        2695753|          SOLER|       DarkCyan|
+             -1|    COOKING_GAZ|       Hercule8|             14|
+        1826856|         BENZIN|       DarkBlue|
+             -1|          SOLER| Wireless D.F.9|             37|
+             -1|    COOKING_GAZ| Wireless D.F.8|             38|
+             -1|    COOKING_GAZ|      Fowberry9|             12|
+        2143415|          SOLER|     DarkYellow|
+        1175168|         BENZIN|       DarkGray|
+        1578424|         BENZIN|
+        2590028|         BENZIN|
+        1961974|          SOLER|     DarkYellow|
+        1419173|    COOKING_GAZ|         Yellow|
+        2783501|    COOKING_GAZ|        DarkRed|
+             -1|    COOKING_GAZ|       Hercule3|             24|
+        2605786|          SOLER|          Black|
+        1591313|          SOLER|           Blue|
+        1800287|          SOLER|
+        2249940|         BENZIN|
+        2372359|         BENZIN|
+        2007541|         BENZIN|       DarkGray|
+        1091350|         BENZIN|          Black|
+        1023195|    COOKING_GAZ|          White|
+        1644589|    COOKING_GAZ|           Cyan|
+        1112055|         BENZIN|          Green|
+        2809522|         BENZIN|            Red|
+        1529167|         BENZIN|
+        1062292|         BENZIN|
+        1179796|          SOLER|
+        2345866|         BENZIN|          White|
+        2215674|          SOLER|
+        1767538|         BENZIN|         Yellow|
+             -1|          SOLER|      Foremost9|              5|
+        2279926|    COOKING_GAZ|       DarkGray|
+        1231796|    COOKING_GAZ|         Yellow|
+        2402200|          SOLER|           Cyan|
+             -1|    COOKING_GAZ|         Birka6|             21|
+             -1|          SOLER|      Foremost4|             18|
+        1155271|    COOKING_GAZ|    DarkMagenta|
+             -1|         BENZIN|         ROSIE9|             27|
+        1287516|          SOLER|
+             -1|          SOLER|     Boucharin4|             39|
+             -1|          SOLER|      Sabratha6|             28|
+        2927266|          SOLER|          Black|
+        2395875|         BENZIN|
+        2668266|          SOLER|
+             -1|    COOKING_GAZ| Wireless D.F.3|             36|
+        1715068|    COOKING_GAZ|           Gray|
+        1888231|    COOKING_GAZ|
+        2579257|         BENZIN|
+        2484913|         BENZIN|          Black|
+             -1|          SOLER|       TITANIK3|              7|
+        1456662|    COOKING_GAZ|          Green|
+        2345866|         BENZIN|          White|
+        2611679|          SOLER|           Gray|
+        2667649|    COOKING_GAZ|    DarkMagenta|
+             -1|    COOKING_GAZ|   Liberty Glo6|              5|
+             -1|    COOKING_GAZ|      Sabratha2|             34|
+        2767805|    COOKING_GAZ|
+        2959746|    COOKING_GAZ|           Blue|
+        1767675|    COOKING_GAZ|
+             -1|         BENZIN|      Foremost9|             10|
+        1197235|    COOKING_GAZ|
+        2298290|    COOKING_GAZ|
+        1243384|         BENZIN|
+        2785709|    COOKING_GAZ|
+        1885151|    COOKING_GAZ|
+             -1|          SOLER|      Sabratha8|             19|
+             -1|    COOKING_GAZ|      Fowberry4|             35|
+           45*U|         BENZIN|
+        1284123|         BENZIN|
+        2752858|         BENZIN|
+        2395435|    COOKING_GAZ|          Green|
+        2072372|          SOLER|
+             -1|         BENZIN|       TITANIK8|             25|
+        1135866|         BENZIN|          Green|
+             -1|          SOLER|     NiceShip12|        25 feet|
+             -1|          SOLER|          JUDY2|              7|
+        2006178|         BENZIN|       DarkGray|
+        2166785|         BENZIN|        Magenta|
+        2267406|          SOLER|        Magenta|
+             -1|    COOKING_GAZ|       Hercule6|              6|
+        1888683|         BENZIN|           Gray|
+             -1|    COOKING_GAZ|      Fowberry2|             39|
+        2700852|    COOKING_GAZ|
+             -1|    COOKING_GAZ|         ROSIE3|             21|
+        1891070|    COOKING_GAZ|          White|
+             -1|    COOKING_GAZ|          JUDY1|             19|
+        1297038|    COOKING_GAZ|        DarkRed|
+        1219382|    COOKING_GAZ|       DarkGray|
+        1631099|    COOKING_GAZ|      DarkGreen|
+        1961586|    COOKING_GAZ|
+        2748695|         BENZIN|           Cyan|
+        2710382|          SOLER|
+             -1|         BENZIN|      Fowberry1|             11|
+        2833913|    COOKING_GAZ|        Magenta|
+        2055461|    COOKING_GAZ|       DarkGray|
+        2184615|         BENZIN|
+        2319814|          SOLER|           Gray|
+             -1|         BENZIN|       Hercule3|             29|
+        2096144|          SOLER|
+        1647954|    COOKING_GAZ|
+        2740314|          SOLER|          Green|
+        1297956|         BENZIN|        Magenta|
+        1883768|          SOLER|
+        1060291|         BENZIN|
+             -1|    COOKING_GAZ|      Fowberry3|             10|
+        1132663|         BENZIN|         Yellow|
+             -1|    COOKING_GAZ|         ROSIE1|             36|
+             -1|         BENZIN|         Birka5|             37|
+             -1|    COOKING_GAZ|      Sabratha5|             30|
+        2685218|          SOLER|          Black|
+             -1|    COOKING_GAZ|       Hercule7|             32|
+        2940409|          SOLER|
+             -1|    COOKING_GAZ|         ROSIE9|             31|
+            154|          SOLER|     NiceShip12|             17|
+        2166608|          SOLER|           Cyan|
+             -1|    COOKING_GAZ|     Monchique6|             17|
+        1238318|    COOKING_GAZ|           Blue|
+        1936483|         BENZIN|       DarkCyan|
+        2166785|         BENZIN|        Magenta|
+        2181803|         BENZIN|
+             -1|          SOLER| Wireless D.F.1|             34|
+        2129216|          SOLER|
+             -1|          SOLER|       TITANIK7|             16|
+        1617672|    COOKING_GAZ|    DarkMagenta|
+             -1|    COOKING_GAZ|      Foremost7|              9|
+        2697534|    COOKING_GAZ|
+        1547192|    COOKING_GAZ|
+             -1|    COOKING_GAZ|      Sabratha9|             36|
+             -1|         BENZIN|     Boucharin4|             18|
+        1966035|    COOKING_GAZ|
+             -1|          SOLER|         Birka8|             20|
+        2394772|         BENZIN|
+        2323589|         BENZIN|
+             -1|         BENZIN|      Fowberry7|              5|
+             -1|    COOKING_GAZ|       TITANIK9|             27|
+        2135176|    COOKING_GAZ|       DarkBlue|
+             -1|         BENZIN|          JUDY3|             17|
+        2081810|          SOLER|
+        2586623|          SOLER|           Blue|
+             -1|         BENZIN|     Boucharin2|             25|
+        1993291|    COOKING_GAZ|           Cyan|
+        1337470|    COOKING_GAZ|       DarkGray|
+        2181339|          SOLER|       DarkBlue|
+             -1|          SOLER|       TITANIK5|             19|
+        2033875|         BENZIN|
+        2278354|    COOKING_GAZ|          White|
+             -1|         BENZIN|       TITANIK2|             14|
+        1486502|    COOKING_GAZ|       DarkCyan|
+             -1|         BENZIN|      Fowberry5|             34|
+        2182945|         BENZIN|
+             -1|          SOLER|   Liberty Glo5|             10|
+             -1|    COOKING_GAZ| Wireless D.F.5|             27|
+            154|          SOLER|     NiceShip12|             17|
+        1245109|         BENZIN|       DarkGray|
+             -1|         BENZIN|   Liberty Glo3|             35|
+        1147351|    COOKING_GAZ|
+        2060224|          SOLER|
+        1992275|         BENZIN|
+        1726911|         BENZIN|       DarkBlue|
+        1509591|          SOLER|
+        2007541|         BENZIN|       DarkGray|
+        2559712|         BENZIN|
+             -1|          SOLER|         Birka6|              6|
+        2215712|         BENZIN|      DarkGreen|
+        1676203|         BENZIN|           Gray|
+        2231016|         BENZIN|
+        2141209|          SOLER|        Magenta|
+             -1|         BENZIN|      Fowberry9|             37|
+        1140578|         BENZIN|           Cyan|
+        2662187|    COOKING_GAZ|          White|
+             -1|         BENZIN|       Hercule4|             38|
+        2494797|         BENZIN|
+             -1|         BENZIN| Wireless D.F.8|             36|
+        1870665|         BENZIN|       DarkBlue|
+        1603591|    COOKING_GAZ|           Blue|
+             -1|    COOKING_GAZ|      Foremost3|             31|
+             -1|         BENZIN| Wireless D.F.6|             34|
+        2183722|          SOLER|
+        2006178|         BENZIN|       DarkGray|
+        1202337|          SOLER|       DarkCyan|
+             -1|          SOLER|      Sabratha1|             10|
+        2427917|    COOKING_GAZ|
+        2503890|         BENZIN|       DarkGray|
+        2983135|          SOLER|    DarkMagenta|
+             -1|          SOLER|      Foremost3|             13|
+        2993209|         BENZIN|           Blue|
+        2674427|          SOLER|           Cyan|
+             -1|    COOKING_GAZ|         ROSIE5|             27|
+        2507405|          SOLER|
+             -1|    COOKING_GAZ| Wireless D.F.9|             23|
+        1610256|          SOLER|
+             -1|    COOKING_GAZ|         ROSIE6|             36|
+             -1|         BENZIN| Wireless D.F.9|              7|
+        2540565|    COOKING_GAZ|
+        1636264|    COOKING_GAZ|         Yellow|
+        1696238|         BENZIN|
+        1687733|         BENZIN|          Green|
+             -1|    COOKING_GAZ|         Birka5|             22|
+             -1|         BENZIN|      Sabratha7|             18|
+        1631099|    COOKING_GAZ|      DarkGreen|
+        2612999|          SOLER|       DarkGray|
+        2166785|         BENZIN|        Magenta|
+        1470194|         BENZIN|
+        2880760|          SOLER|       DarkBlue|
+        2594303|         BENZIN|
+        1257170|         BENZIN|    DarkMagenta|
+        1136726|         BENZIN|
+        2817770|    COOKING_GAZ|
+             -1|          SOLER|      WallaShip|             17|             32|
+        1144768|    COOKING_GAZ|         Yellow|
+        2267595|          SOLER|       DarkGray|
+        2873427|         BENZIN|        Magenta|
+        2279578|         BENZIN|
+        2223556|         BENZIN|
+             -1|          SOLER|         ROSIE6|             33|
+             -1|    COOKING_GAZ|      Sabratha5|             19|
+        2131193|    COOKING_GAZ|         Yellow|
+             -1|         BENZIN|   Liberty Glo2|             16|
+        2221362|    COOKING_GAZ|
+        1807487|          SOLER|          Green|
+             -1|         BENZIN|         ROSIE2|             15|
+             -1|         BENZIN|       Hercule4|             26|
+        1378912|         BENZIN|           Cyan|
+             -1|         BENZIN|      Fowberry9|             13|
+        1272038|         BENZIN|
+        2767337|          SOLER|
+        1122837|    COOKING_GAZ|
+        2715073|         BENZIN|
+        1478787|    COOKING_GAZ|
+             -1|          SOLER|       TITANIK8|              6|
+             -1|    COOKING_GAZ|      Sabratha5|             37|
+             -1|          SOLER|      Fowberry7|             25|
+        2055461|    COOKING_GAZ|       DarkGray|
+        2985235|          SOLER|        DarkRed|
+             -1|          SOLER|      WallaShip|             17|             32|
+        1339895|    COOKING_GAZ|
+        2536753|          SOLER|
+        1307723|          SOLER|
+        2596762|    COOKING_GAZ|
+        2570523|    COOKING_GAZ|
+        2879952|    COOKING_GAZ|       DarkGray|
+        2545547|         BENZIN|       DarkBlue|
+        2059705|         BENZIN|
+        2007541|         BENZIN|       DarkGray|
+             -1|          SOLER|     Monchique3|             38|
+        2115379|          SOLER|
+             -1|         BENZIN|         Birka4|              8|
+             -1|         BENZIN|   Liberty Glo2|             39|
+             -1|         BENZIN|       TITANIK3|             21|
+             -1|         BENZIN|      Sabratha8|             23|
+             -1|          SOLER|      Fowberry9|             37|
+        2800164|          SOLER|
+             -1|    COOKING_GAZ|         ROSIE2|             13|
+        2094772|    COOKING_GAZ|
+        2708102|         BENZIN|
+        1132484|    COOKING_GAZ|         Yellow|
+             -1|         BENZIN|         Birka3|             19|
+        1376000|          SOLER|
+        2513794|    COOKING_GAZ|
+        2195232|         BENZIN|
+             -1|          SOLER|     Boucharin9|             38|
+        1642129|    COOKING_GAZ|          Black|
+        1204199|          SOLER|
+        1944351|         BENZIN|            Red|
+        1236685|    COOKING_GAZ|          Green|
+        1219023|    COOKING_GAZ|       DarkGray|
+        2958743|         BENZIN|          White|
+             -1|          SOLER|     Boucharin6|             25|
+        2546608|          SOLER|        DarkRed|
+             -1|          SOLER|          JUDY7|             12|
+        2909647|          SOLER|            Red|
+        2328405|         BENZIN|        Magenta|
+        1242649|          SOLER|           Blue|
+             -1|         BENZIN|     Monchique3|             26|
+        2765870|         BENZIN|
+        1033229|          SOLER|
+        2305254|    COOKING_GAZ|
+        2810991|          SOLER|            Red|
+             -1|          SOLER|         Birka2|             38|
+           45*U|         BENZIN|
+        2334311|    COOKING_GAZ|
+             -1|    COOKING_GAZ|       Hercule6|              5|
+        2610264|          SOLER|
+          12109|
+             -1|         BENZIN|     Monchique2|             17|
+        1232478|          SOLER|        DarkRed|
+        1088632|         BENZIN|
+        1427295|          SOLER|
+        1064576|          SOLER|
+        1331766|    COOKING_GAZ|
+        1430336|    COOKING_GAZ|        DarkRed|
+        2912046|    COOKING_GAZ|    DarkMagenta|
+             -1|         BENZIN|       TITANIK2|             21|
+             -1|          SOLER|      Sabratha2|             14|
+        2315950|          SOLER|     DarkYellow|
+        2767099|         BENZIN|       DarkGray|
+             -1|         BENZIN|      Sabratha6|             23|
+        1342028|          SOLER|
+        2345780|          SOLER|
+        1063507|          SOLER|          Green|
+        2256783|          SOLER|          White|
+        1921526|    COOKING_GAZ|            Red|
+        1284222|         BENZIN|
+        1653548|    COOKING_GAZ|
+          12109|
+        2891547|          SOLER|         Yellow|
+        1861152|          SOLER|
+          12109|
+             -1|         BENZIN|       Hercule6|             26|
+             -1|    COOKING_GAZ|         ROSIE4|             31|
+          12109|
+        1964976|         BENZIN|
+        2883352|          SOLER|
+        1522284|    COOKING_GAZ|
+        2622188|    COOKING_GAZ|
+        1631099|    COOKING_GAZ|      DarkGreen|
+        1475120|    COOKING_GAZ|
+        1180553|    COOKING_GAZ|            Red|
+             -1|         BENZIN|          JUDY1|             22|
+        1510844|    COOKING_GAZ|
+             -1|          SOLER| Wireless D.F.4|              8|
+             -1|          SOLER| Wireless D.F.9|             34|
+        2380503|         BENZIN|        DarkRed|
+        2345866|         BENZIN|          White|
+        1080543|    COOKING_GAZ|           Gray|
+        1551218|         BENZIN|
+        1572346|         BENZIN|
+        2224990|    COOKING_GAZ|
+        2674729|         BENZIN|        DarkRed|
+        2007541|         BENZIN|       DarkGray|
+        2250828|    COOKING_GAZ|           Cyan|
+        1064018|          SOLER|       DarkGray|
+        2666663|    COOKING_GAZ|       DarkCyan|
+        2281045|          SOLER|            Red|
+        2596727|         BENZIN|
+             -1|         BENZIN| Wireless D.F.1|             15|
+             -1|          SOLER|       TITANIK4|             29|
+        2840113|    COOKING_GAZ|
+        2595520|    COOKING_GAZ|
+        1617651|         BENZIN|          White|
+            154|          SOLER|     NiceShip12|             17|
+        1305725|         BENZIN|
+             -1|         BENZIN|       Hercule7|             15|
+        2345866|         BENZIN|          White|
+             -1|         BENZIN|     Boucharin4|             21|
+        1975546|    COOKING_GAZ|
+        2197107|          SOLER|       DarkCyan|
+        2254114|    COOKING_GAZ|
+        1657795|          SOLER|          Black|
+        1239268|         BENZIN|
+             -1|        BENZONA|     SpaceShip1|             44|
+        2323765|    COOKING_GAZ|    DarkMagenta|
+        2073634|         BENZIN|
+        1926890|    COOKING_GAZ|
+        2076940|          SOLER|     DarkYellow|
+             -1|          SOLER|     NiceShip12|        25 feet|
+        2169645|          SOLER|
+        1519404|         BENZIN|          White|
+             -1|          SOLER|      WallaShip|             17|             32|
+        2493636|         BENZIN|
+             -1|        BENZONA|     SpaceShip1|             44|
+             -1|          SOLER|          JUDY3|             35|
+        1043005|         BENZIN|       DarkCyan|
+             -1|          SOLER|       TITANIK4|             17|
+             -1|    COOKING_GAZ|       TITANIK8|             23|
+             -1|          SOLER|      Sabratha5|             37|
+        1868190|         BENZIN|           Blue|
+        2014678|         BENZIN|
+        2390587|    COOKING_GAZ|
+        1708909|         BENZIN|        Magenta|
+        1354092|          SOLER|          Green|
+        2744990|          SOLER|
+        1223843|    COOKING_GAZ|
+        2738125|          SOLER|      DarkGreen|
+             -1|         BENZIN|     Monchique7|             17|
+        1170180|    COOKING_GAZ|
+        2227888|          SOLER|      DarkGreen|
+             -1|          SOLER|      Fowberry3|             24|
+        2670659|    COOKING_GAZ|
+        2338615|         BENZIN|
+           45*U|         BENZIN|
+             -1|          SOLER|      Foremost9|             23|
+        2905411|         BENZIN|
+           45*U|         BENZIN|
+        2545547|         BENZIN|       DarkBlue|
+        1291327|    COOKING_GAZ|
+        1346137|          SOLER|
+        1622448|         BENZIN|           Blue|
+             -1|         BENZIN|          JUDY6|              9|
+        1090715|    COOKING_GAZ|
+        1824018|    COOKING_GAZ|
+        2147125|         BENZIN|        DarkRed|
+             -1|          SOLER|      Fowberry3|             36|
+             -1|          SOLER|      Foremost4|             13|
+             -1|          SOLER|       TITANIK9|              8|
+        1448457|         BENZIN|
+        2514987|         BENZIN|          White|
+             -1|    COOKING_GAZ|      Foremost1|             35|
+        2758669|    COOKING_GAZ|      DarkGreen|
+        1204320|          SOLER|
+             -1|          SOLER|     Monchique7|             27|
+        1244836|         BENZIN|    DarkMagenta|
+        2062437|    COOKING_GAZ|
+             -1|         BENZIN|     Monchique5|             31|
+             -1|         BENZIN|      Fowberry3|             25|
+        1738385|         BENZIN|
+             -1|    COOKING_GAZ|         ROSIE5|             39|
+        1463774|    COOKING_GAZ|          White|
+             -1|          SOLER|          JUDY3|             39|
+             -1|    COOKING_GAZ| Wireless D.F.8|              9|
+        2166785|         BENZIN|        Magenta|
+             -1|         BENZIN|     Boucharin2|             26|
+        2059450|          SOLER|          Black|
+        2744471|          SOLER|            Red|
+             -1|         BENZIN|     Boucharin8|             24|
+        2469839|         BENZIN|
+        2424941|         BENZIN|
+             -1|    COOKING_GAZ|         Birka2|             25|
+             -1|         BENZIN|     Boucharin8|             17|
+        2512713|         BENZIN|         Yellow|
+        2788638|          SOLER|
+           45*U|         BENZIN|
+        2097342|    COOKING_GAZ|       DarkBlue|
+        1487571|    COOKING_GAZ|        Magenta|
+        2240183|         BENZIN|           Gray|
+        1996851|    COOKING_GAZ|
+        2682979|    COOKING_GAZ|          Black|
+             -1|          SOLER|     NiceShip12|        25 feet|
+        2152937|         BENZIN|        Magenta|
+             -1|          SOLER|       TITANIK6|             30|
+             -1|    COOKING_GAZ|     Monchique2|             18|
+        2006178|         BENZIN|       DarkGray|
+        1608218|          SOLER|
+             -1|    COOKING_GAZ|         ROSIE9|             23|
+             -1|         BENZIN|      Foremost4|             37|
+             -1|         BENZIN|         Birka9|              9|
+        1807934|    COOKING_GAZ|
+        1890074|    COOKING_GAZ|
+        2839696|         BENZIN|       DarkBlue|
+        2366027|         BENZIN|
+        1047287|         BENZIN|     DarkYellow|
+             -1|          SOLER| Wireless D.F.7|             30|
+        1543764|         BENZIN|           Blue|
+        1080012|    COOKING_GAZ|
+        1665207|          SOLER|        DarkRed|
+        2371661|          SOLER|
+             -1|          SOLER|      Foremost2|             36|
+        1510210|          SOLER|
+        2740466|          SOLER|          Green|
+        1487261|          SOLER|
+        1145019|          SOLER|       DarkBlue|
+        1608797|          SOLER|       DarkBlue|
+        1860029|          SOLER|        Magenta|
+             -1|    COOKING_GAZ|     Boucharin6|             35|
+        2947737|          SOLER|       DarkCyan|
+        2345866|         BENZIN|          White|
+             -1|    COOKING_GAZ|   Liberty Glo6|             10|
+             -1|          SOLER| Wireless D.F.3|             38|
+             -1|    COOKING_GAZ|       Hercule3|              7|
+        2479031|          SOLER|
+        2580041|         BENZIN|
+             -1|          SOLER|     Monchique2|             35|
+        2668543|         BENZIN|
+             -1|         BENZIN|      Foremost9|             36|
+        1691737|          SOLER|
+        2006178|         BENZIN|       DarkGray|
+        1782535|          SOLER|
+             -1|    COOKING_GAZ|       Hercule7|             23|
+        2273009|         BENZIN|       DarkGray|
+        2097131|          SOLER|
+        2590547|         BENZIN|
+        2091418|         BENZIN|
+        1044927|    COOKING_GAZ|        DarkRed|
+        2683085|    COOKING_GAZ|
+        2007541|         BENZIN|       DarkGray|
+        2313251|          SOLER|
+        2083697|    COOKING_GAZ|        DarkRed|
+        1094427|         BENZIN|
+        1707839|    COOKING_GAZ|
+             -1|    COOKING_GAZ|         Birka7|              9|
+        2379900|         BENZIN|
+        2718816|          SOLER|        DarkRed|
+             -1|    COOKING_GAZ|         Birka8|             18|
+             -1|          SOLER|         ROSIE3|             20|
+             -1|          SOLER|          JUDY5|             15|
+        2674500|          SOLER|            Red|
+        1287355|          SOLER|           Gray|
+             -1|         BENZIN|         ROSIE4|             33|
+        2248689|          SOLER|      DarkGreen|
+        2290178|         BENZIN|       DarkCyan|
+        2680506|          SOLER|        DarkRed|
+        2875238|         BENZIN|
+        2262481|          SOLER|     DarkYellow|
+        1921627|         BENZIN|
+             -1|         BENZIN|   Liberty Glo1|              7|
+             -1|    COOKING_GAZ|      Foremost8|             34|
+             -1|         BENZIN|      Fowberry6|             29|
+        1491582|    COOKING_GAZ|
+        1550034|         BENZIN|
+             -1|         BENZIN|   Liberty Glo1|             17|
+             -1|         BENZIN|      Sabratha1|             24|
+             -1|         BENZIN|     Monchique2|              9|
+        2958743|         BENZIN|          White|
+        1825055|    COOKING_GAZ|
+        1907787|         BENZIN|
+        2291640|    COOKING_GAZ|
+             -1|          SOLER|         Birka8|             28|
+        1171465|          SOLER|
+             -1|         BENZIN|   Liberty Glo1|             34|
+        2538782|    COOKING_GAZ|       DarkGray|
+             -1|         BENZIN|         ROSIE6|             31|
+             -1|    COOKING_GAZ|          JUDY4|              9|
+        2103198|    COOKING_GAZ|      DarkGreen|
+             -1|         BENZIN| Wireless D.F.6|              7|
+        1485286|    COOKING_GAZ|       DarkGray|
+        1782326|          SOLER|
+        1692564|          SOLER|
+        2840988|          SOLER|
+             -1|         BENZIN|      Sabratha8|             21|
+             -1|    COOKING_GAZ|   Liberty Glo9|              6|
+             -1|         BENZIN|          JUDY8|             38|
+        2815433|    COOKING_GAZ|
+        2780013|    COOKING_GAZ|
+        1441333|    COOKING_GAZ|          Green|
+        2766453|         BENZIN|           Cyan|
+        1556717|          SOLER|
+        2013427|          SOLER|
+             -1|    COOKING_GAZ|       Hercule8|             38|
+        1762696|          SOLER|       DarkCyan|
+             -1|         BENZIN|       Hercule6|             36|
+        1932985|    COOKING_GAZ|           Gray|
+        1418322|         BENZIN|            Red|
+        1908499|          SOLER|
+        2875413|         BENZIN|          White|
+             -1|          SOLER| Wireless D.F.4|             29|
+        2349811|    COOKING_GAZ|
+        1044407|    COOKING_GAZ|       DarkGray|
+        2554731|         BENZIN|
+             -1|         BENZIN|      Fowberry2|             33|
+        1544810|    COOKING_GAZ|
+             -1|         BENZIN|         ROSIE1|             19|
+             -1|          SOLER|         Birka4|             20|
+        1826856|         BENZIN|       DarkBlue|
+        1610715|         BENZIN|
+             -1|         BENZIN|       Hercule4|             12|
+        1719397|    COOKING_GAZ|
+        2180628|         BENZIN|
+        2850150|          SOLER|           Gray|
+             -1|          SOLER| Wireless D.F.2|              9|
+        2069780|    COOKING_GAZ|
+        2000507|          SOLER|         Yellow|
+        1432805|         BENZIN|        Magenta|
+        2647957|          SOLER|          Green|
+             -1|    COOKING_GAZ|       Hercule1|             29|
+        2545547|         BENZIN|       DarkBlue|
+            154|          SOLER|     NiceShip12|             17|
+        2493659|    COOKING_GAZ|          Black|
+        2386169|          SOLER|        Magenta|
+        2886517|    COOKING_GAZ|
+        2510646|         BENZIN|
+             -1|          SOLER|       Hercule4|             21|
+        1945813|    COOKING_GAZ|
+        1309944|    COOKING_GAZ|      DarkGreen|
+        2045613|    COOKING_GAZ|
+             -1|         BENZIN|         Birka1|             28|
+             -1|          SOLER|      Sabratha2|              8|
+        2617323|         BENZIN|
+        1510348|    COOKING_GAZ|
+             -1|          SOLER|     NiceShip12|        25 feet|
+        2345866|         BENZIN|          White|
+        2007541|         BENZIN|       DarkGray|
+        2963056|         BENZIN|        Magenta|
+        1442421|          SOLER|           Cyan|
+        2304706|         BENZIN|
+        2166785|         BENZIN|        Magenta|
+             -1|    COOKING_GAZ|       Hercule3|             30|
+        1061499|         BENZIN|
+        2055461|    COOKING_GAZ|       DarkGray|
+        2519151|          SOLER|           Blue|
+        2191278|          SOLER|
+        2055461|    COOKING_GAZ|       DarkGray|
+             -1|    COOKING_GAZ|         ROSIE5|             33|
+             -1|    COOKING_GAZ|     Monchique8|             33|
+             -1|          SOLER|     Boucharin2|             17|
+        2865471|          SOLER|            Red|
+        1301866|    COOKING_GAZ|
+        1151261|          SOLER|
+             -1|         BENZIN|      Sabratha2|              8|
+             -1|    COOKING_GAZ|     Boucharin9|             20|
+             -1|         BENZIN|       TITANIK5|              6|
+             -1|    COOKING_GAZ|     Monchique2|             38|
+             -1|          SOLER|       Hercule6|             39|
+             -1|         BENZIN|       TITANIK5|             39|
+        1555046|    COOKING_GAZ|
+        2538486|         BENZIN|          Green|
+        2720183|          SOLER|
+        2048449|    COOKING_GAZ|           Cyan|
+        1380804|         BENZIN|         Yellow|
+        1543622|          SOLER|
+             -1|          SOLER|         Birka9|             16|
+        1896971|    COOKING_GAZ|
+        2873488|          SOLER|
+        1718948|    COOKING_GAZ|        DarkRed|
+        2331715|    COOKING_GAZ|       DarkBlue|
+             -1|          SOLER|          JUDY3|             25|
+        2911362|          SOLER|       DarkCyan|
+             -1|         BENZIN|      Fowberry2|             35|
+             -1|         BENZIN|     Boucharin7|             11|
+        1825156|          SOLER|          White|
+        2442118|    COOKING_GAZ|         Yellow|
+             -1|          SOLER| Wireless D.F.5|              9|
+             -1|    COOKING_GAZ|     Monchique1|             32|
+        2289601|         BENZIN|
+           45*U|         BENZIN|
+        1354162|    COOKING_GAZ|           Blue|
+        1661116|         BENZIN|     DarkYellow|
+             -1|    COOKING_GAZ|      Fowberry8|             20|
+        2156288|          SOLER|
+        2055461|    COOKING_GAZ|       DarkGray|
+             -1|          SOLER|      Sabratha4|             24|
+             -1|          SOLER|   Liberty Glo8|             29|
+        1529847|          SOLER|    DarkMagenta|
+        1771445|    COOKING_GAZ|
+        1542335|          SOLER|          Black|
+        1685281|          SOLER|         Yellow|
+        2558314|         BENZIN|
+        1245022|         BENZIN|
+        2823264|         BENZIN|       DarkGray|
+        1580367|         BENZIN|
+        2142696|    COOKING_GAZ|
+        1484476|          SOLER|     DarkYellow|
+        2365645|          SOLER|          Black|
+        2545547|         BENZIN|       DarkBlue|
+             -1|         BENZIN|         Birka2|             22|
+        1917946|    COOKING_GAZ|      DarkGreen|
+        2301851|    COOKING_GAZ|          White|
+             -1|          SOLER|     Monchique6|             33|
+             -1|          SOLER|      WallaShip|             17|             32|
+             -1|          SOLER|     Monchique8|              5|
+        1281903|          SOLER|        DarkRed|
+             -1|        BENZONA|     SpaceShip1|             44|
+        2166785|         BENZIN|        Magenta|
+        1979080|         BENZIN|
+             -1|          SOLER|      Fowberry6|             22|
+             -1|    COOKING_GAZ|       TITANIK5|             17|
+        2403526|          SOLER|
+             -1|    COOKING_GAZ|      Fowberry4|             27|
+        1161528|         BENZIN|
+        1211141|         BENZIN|
+        2834102|          SOLER|            Red|
+             -1|          SOLER|      Fowberry1|             18|
+        2598845|         BENZIN|        Magenta|
+             -1|    COOKING_GAZ|          JUDY5|             18|
+        2153133|    COOKING_GAZ|       DarkBlue|
+             -1|    COOKING_GAZ|      Fowberry3|             14|
+        2166785|         BENZIN|        Magenta|
+        2146417|          SOLER|          Green|
+        1130794|    COOKING_GAZ|
+        1563096|          SOLER|        DarkRed|
+             -1|          SOLER|     Boucharin3|             33|
+             -1|    COOKING_GAZ|      Fowberry3|             21|
+             -1|          SOLER|     Monchique4|             14|
+        1264363|          SOLER|       DarkCyan|
+        2716281|         BENZIN|       DarkCyan|
+        1522879|    COOKING_GAZ|
+             -1|         BENZIN|     Monchique6|             20|
+        2974045|          SOLER|
+             -1|    COOKING_GAZ|         Birka7|             16|
+        1631099|    COOKING_GAZ|      DarkGreen|
+             -1|         BENZIN|          JUDY3|             32|
+        2809006|         BENZIN|       DarkGray|
+        1602277|         BENZIN|       DarkCyan|
+             -1|    COOKING_GAZ|     Monchique9|             33|
+        2517912|         BENZIN|           Cyan|
+        1078614|    COOKING_GAZ|
+             -1|    COOKING_GAZ|          JUDY3|             35|
+             -1|          SOLER|   Liberty Glo6|             15|
+        2980838|         BENZIN|          Green|
+        2376788|    COOKING_GAZ|           Gray|
+        1866804|         BENZIN|
+        1733620|    COOKING_GAZ|
+             -1|    COOKING_GAZ| Wireless D.F.5|             23|
+        2519832|         BENZIN|        DarkRed|
+        2786390|    COOKING_GAZ|          Black|
+        2850378|         BENZIN|           Gray|
+        2345866|         BENZIN|          White|
+             -1|          SOLER|         Birka1|             33|
+        2441713|          SOLER|    DarkMagenta|
+        2051636|          SOLER|
+        2032914|    COOKING_GAZ|    DarkMagenta|
+        1045012|    COOKING_GAZ|
+             -1|    COOKING_GAZ|         Birka7|              8|
+        2937102|          SOLER|        DarkRed|
+             -1|         BENZIN|       Hercule1|             24|
+        2278879|         BENZIN|
+             -1|    COOKING_GAZ|     Boucharin7|             10|
+             -1|          SOLER|      Fowberry6|             23|
+        1203117|          SOLER|
+             -1|    COOKING_GAZ| Wireless D.F.7|              7|
+        1275028|    COOKING_GAZ|     DarkYellow|
+             -1|         BENZIN|         ROSIE3|             38|
+             -1|    COOKING_GAZ|         ROSIE9|             14|
+        2132759|          SOLER|       DarkCyan|
+             -1|         BENZIN|       Hercule1|             37|
+        1882327|    COOKING_GAZ|          Green|
+        1435140|         BENZIN|    DarkMagenta|
+             -1|          SOLER|     Boucharin6|              7|
+        1614422|    COOKING_GAZ|
+        2134143|         BENZIN|
+        2372326|         BENZIN|
+             -1|    COOKING_GAZ|      Fowberry7|             32|
+        2990522|         BENZIN|          Green|
+             -1|         BENZIN|      Sabratha1|             30|
+             -1|         BENZIN|          JUDY3|             15|
+             -1|          SOLER|   Liberty Glo7|              6|
+             -1|        BENZONA|     SpaceShip1|             44|
+        1533932|         BENZIN|           Cyan|
+            154|          SOLER|     NiceShip12|             17|
+        1308326|    COOKING_GAZ|          White|
+             -1|         BENZIN| Wireless D.F.3|             23|
+             -1|    COOKING_GAZ|     Boucharin2|             39|
+        1361883|          SOLER|           Cyan|
+        1920069|    COOKING_GAZ|
+        2963973|         BENZIN|
+             -1|         BENZIN|      Foremost8|             37|
+        2770460|    COOKING_GAZ|
+        2608620|         BENZIN|
+             -1|    COOKING_GAZ|       TITANIK2|              8|
+        1915479|    COOKING_GAZ|
+             -1|    COOKING_GAZ| Wireless D.F.7|             31|
+        1840796|    COOKING_GAZ|           Blue|
+        1937048|         BENZIN|      DarkGreen|
+        1849828|    COOKING_GAZ|
+        1154241|         BENZIN|
+             -1|          SOLER|   Liberty Glo6|             13|
+        2721125|          SOLER|
+        1945767|         BENZIN|         Yellow|
+        2055523|          SOLER|       DarkGray|
+        1977557|          SOLER|
+             -1|          SOLER|     Monchique2|             35|
+        2928453|    COOKING_GAZ|
+             -1|    COOKING_GAZ|      Fowberry4|             32|
+        2190969|    COOKING_GAZ|
+        1974165|          SOLER|        DarkRed|
+             -1|    COOKING_GAZ|      Fowberry1|             38|
+             -1|          SOLER|      Sabratha1|             14|
+        2785974|    COOKING_GAZ|
+             -1|         BENZIN|       TITANIK9|             16|
+             -1|          SOLER|   Liberty Glo7|              8|
+            154|          SOLER|     NiceShip12|             17|
+        1807858|    COOKING_GAZ|          White|
+        2219197|         BENZIN|       DarkBlue|
+        1629995|         BENZIN|          Green|
+        1193438|          SOLER|    DarkMagenta|
+        2602239|         BENZIN|         Yellow|
+        2878098|    COOKING_GAZ|
+        2996473|          SOLER|        DarkRed|
+             -1|         BENZIN|      Sabratha7|             27|
+        2658367|    COOKING_GAZ|    DarkMagenta|
+        1922088|          SOLER|
+             -1|    COOKING_GAZ|      Foremost4|              7|
+        2010222|         BENZIN|
+             -1|    COOKING_GAZ|         ROSIE4|              5|
+             -1|    COOKING_GAZ|     Boucharin1|             16|
+             -1|          SOLER|     Monchique3|             17|
+             -1|        BENZONA|     SpaceShip1|             44|
+             -1|          SOLER|         ROSIE2|             25|
+             -1|          SOLER|          JUDY4|             22|
+        2226843|    COOKING_GAZ|
+        2211514|          SOLER|           Cyan|
+             -1|          SOLER|      Sabratha7|             28|
+        1880238|         BENZIN|
+        1272371|          SOLER|
+        2107438|         BENZIN|
+        2330966|         BENZIN|
+             -1|          SOLER|         Birka2|             24|
+             -1|          SOLER|         Birka9|             32|
+        1394278|    COOKING_GAZ|       DarkGray|
+        2345866|         BENZIN|          White|
+        1024302|    COOKING_GAZ|
+        1348605|    COOKING_GAZ|         Yellow|
+             -1|          SOLER|         ROSIE3|              5|
+        1588675|         BENZIN|            Red|
+             -1|    COOKING_GAZ|   Liberty Glo5|             26|
+        2642507|    COOKING_GAZ|       DarkBlue|
+        2498883|         BENZIN|
+             -1|          SOLER|     Boucharin8|             12|
+        1241541|         BENZIN|
+        2073048|    COOKING_GAZ|            Red|
+        2577796|         BENZIN|
+        2835301|          SOLER|          Black|
+             -1|          SOLER|          JUDY8|             13|
+             -1|    COOKING_GAZ|   Liberty Glo7|             10|
+        1957333|          SOLER|
+          12109|
+        2545547|         BENZIN|       DarkBlue|
+             -1|    COOKING_GAZ|      Foremost2|             36|
+             -1|          SOLER|      Sabratha8|             27|
+        2117053|    COOKING_GAZ|

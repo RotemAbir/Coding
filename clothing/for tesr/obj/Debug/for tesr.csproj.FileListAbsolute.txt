@@ -1,0 +1,2 @@
+c:\users\ety\documents\visual studio 2015\Projects\for tesr\for tesr\bin\Debug\for tesr.exe.config
+C:\Users\rotem\Desktop\לימודים\Visual Studio 2015\Projects\תכנות ב\for tesr\for tesr\bin\Debug\for tesr.exe.config

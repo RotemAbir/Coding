@@ -1,0 +1,12 @@
+c:\users\ety\documents\visual studio 2015\Projects\homework_3\homework_3\bin\Debug\homework_3.exe.config
+C:\Users\ety\Documents\Visual Studio 2015\Projects\homework_3\homework_3\bin\Debug\homework_3.exe
+C:\Users\ety\Documents\Visual Studio 2015\Projects\homework_3\homework_3\bin\Debug\homework_3.pdb
+C:\Users\ety\Documents\Visual Studio 2015\Projects\homework_3\homework_3\obj\Debug\homework_3.csprojResolveAssemblyReference.cache
+C:\Users\ety\Documents\Visual Studio 2015\Projects\homework_3\homework_3\obj\Debug\homework_3.exe
+C:\Users\ety\Documents\Visual Studio 2015\Projects\homework_3\homework_3\obj\Debug\homework_3.pdb
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\תכנות ב\homework_3\homework_3\bin\Debug\homework_3.exe.config
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\תכנות ב\homework_3\homework_3\obj\Debug\homework_3.exe
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\תכנות ב\homework_3\homework_3\obj\Debug\homework_3.pdb
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\תכנות ב\homework_3\homework_3\bin\Debug\homework_3.exe
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\תכנות ב\homework_3\homework_3\bin\Debug\homework_3.pdb
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\תכנות ב\homework_3\homework_3\obj\Debug\homework_3.csprojResolveAssemblyReference.cache
